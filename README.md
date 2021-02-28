@@ -1,1 +1,1 @@
-# parallel-and-distributed-computing
+# Exercises for the course: Parallel and Distributed computing 
